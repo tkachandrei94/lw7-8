@@ -330,26 +330,26 @@ footer .contacts p {
   display: none;
 }
 
-#rb6:checked ~ .products-with-filters .product {
+#rb6:checked~.products-with-filters .product {
   display: flex;
 }
 
-#rb1:checked ~ .products-with-filters .pirig {
+#rb1:checked~.products-with-filters .pirig {
   display: flex;
 }
 
-#rb2:checked ~ .products-with-filters .roulett {
+#rb2:checked~.products-with-filters .roulett {
   display: flex;
 }
 
-#rb3:checked ~ .products-with-filters .sirnik {
+#rb3:checked~.products-with-filters .sirnik {
   display: flex;
 }
 
-#rb4:checked ~ .products-with-filters .pirojnoe {
+#rb4:checked~.products-with-filters .pirojnoe {
   display: flex;
 }
 
-#rb5:checked ~ .products-with-filters .tort {
+#rb5:checked~.products-with-filters .tort {
   display: flex;
 }
